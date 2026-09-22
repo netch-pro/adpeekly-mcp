@@ -1,5 +1,3 @@
-# adpeekly-mcp
-
 # AdPeekly LinkedIn Ads Library MCP Server (unofficial)
 
 Unofficial, read-only MCP server for LinkedIn's public Ad Library.
